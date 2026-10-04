@@ -11,8 +11,8 @@ letterpress era that printed Sri Lankan books and newspapers.
 
 ![body text sample](images/sentence.png)
 
-![villages sentence](images/sent2a.png)
-![villages sentence](images/sent2b.png)
+![ගෝල්ඩන් යුග sentence](images/sent2a.png)
+![ගෝල්ඩන් යුග sentence](images/sent2b.png)
 
 ### Weights
 
@@ -46,8 +46,8 @@ Get the latest bundle from the [Releases](../../releases) page.
   19th-century Sinhala press type.
 - **Disambiguation** — the confusable pairs that plague every Sinhala font
   (ඨ/ට, ථ/ත, ඵ/ප, ඡ/ච, the vowel-sign set) carry enlarged distinguishing
-  marks; ඝ's ear is a clean dome nub. See `docs/specimen.html` for the
-  pair comparisons.
+  marks; ඝ's ear is a drawn droplet stroke-start. See `docs/specimen.html`
+  for the pair comparisons.
 - **Full shaping** — conjuncts (ශ්‍රී විද්‍යාලය චර්ය්‍ය), repaya, and all
   vowel signs render correctly out of the box.
 
