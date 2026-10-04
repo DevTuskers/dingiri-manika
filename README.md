@@ -5,9 +5,9 @@ letterpress era that printed Sri Lankan books and newspapers.
 
 **Four weights:** Regular · SemiBold · Bold · Display
 
-![Alphabet](images/dm62_row0.png)
-![Alphabet](images/dm62_row1.png)
-![Alphabet](images/dm62_row2.png)
+![Alphabet](images/dm63_row0.png)
+![Alphabet](images/dm63_row1.png)
+![Alphabet](images/dm63_row2.png)
 
 ## Download
 
