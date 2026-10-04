@@ -3,11 +3,23 @@
 An old-world Sinhala serif typeface — a tribute to a grandmother and to the
 letterpress era that printed Sri Lankan books and newspapers.
 
+![ඩිංගිරි මැණිකා](images/title.png)
+
 **Four weights:** Regular · SemiBold · Bold · Display
 
-![Alphabet](images/dm63_row0.png)
-![Alphabet](images/dm63_row1.png)
-![Alphabet](images/dm63_row2.png)
+## In use
+
+![body text sample](images/sentence.png)
+
+![villages sentence](images/sent2a.png)
+![villages sentence](images/sent2b.png)
+
+### Weights
+
+![Regular](images/w_regular.png)
+![SemiBold](images/w_semibold.png)
+![Bold](images/w_bold.png)
+![Bold display](images/w_bold2.png)
 
 ## Download
 
@@ -33,8 +45,9 @@ Get the latest bundle from the [Releases](../../releases) page.
 - **Heritage voice** — high-contrast serifed letterforms in the spirit of
   19th-century Sinhala press type.
 - **Disambiguation** — the confusable pairs that plague every Sinhala font
-  (ඨ/ට, ථ/ත, ඵ/ප, ඡ/ච, ඝ/ග, the vowel-sign set) carry enlarged
-  distinguishing marks. See `docs/specimen.html` for the pair comparisons.
+  (ඨ/ට, ථ/ත, ඵ/ප, ඡ/ච, the vowel-sign set) carry enlarged distinguishing
+  marks; ඝ's ear is a clean dome nub. See `docs/specimen.html` for the
+  pair comparisons.
 - **Full shaping** — conjuncts (ශ්‍රී විද්‍යාලය චර්ය්‍ය), repaya, and all
   vowel signs render correctly out of the box.
 
